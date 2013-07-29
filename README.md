@@ -1,4 +1,3 @@
-africa_issues
-=============
+README
 
-my issues for my internship in cape town
+master branch

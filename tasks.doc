@@ -1,10 +1,13 @@
+Aufgaben für die Zeit wenn Andreas in Südafrika ist:
 
+1. Test schreiben
+2. Arbeitsplatz herstellen (den alten Benutzer zuvor löschen) 
+	Tipp: Die Jungs haben einen Zettel mit allen möglichen Benutzernamen und Passwörtern, u.a. den für den Ubuntu Administrator Benutzer
+3. TOS installieren, laß dir die Version von ndumiso geben, dann checke das converter Projekt aus, da liegt alles drin was du brauchst
+4. Github Versionen updaten erst bei mir, dann mit den anderen zusammen
+5. HSHGlobal und HSH-training in den HSH Github Account integrieren
+	die Integration machen wir, gebe einfach Bescheid wenn du soweit bist, dann findest du unter: https://help.github.com/articles/changing-a-remote-s-url eine Anleitung zum umstellen der remote Verbindung
+	Struktur der Dokumente ändern (mit Ndumiso)
+	Dafür bekommt ndumiso issues von mir, wobei er dann ggf. auch dich fragen soll
+6. Gewerbe Konvertierung: Die Excel Liste bekommen wir über Matze
 
-
-My tasks for the first week in Cape town.
-
-
-- Struktur der Dokumente ändern (mit Ndumiso)
-- HSHGlobal und HSH-training in den HSH Github Account integrieren
-- Github Versionen updaten: erst bei mir versuchen, dann mit den Anderen zusammen
-- Gewerbe Konvertierung
